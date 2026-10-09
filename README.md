@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Melânio Soares Francisco👋
 
-<!--
-**melanio509/melanio509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | Application Support Engineer | IT Operations**
 
-Here are some ideas to get you started:
+IT professional with 15+ years of experience across software development, systems integration, enterprise application support, systems administration, and IT project delivery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have worked on business-critical applications and enterprise platforms, combining technical troubleshooting with a strong understanding of business processes and user needs. I am currently expanding my software engineering skills with **Java, Spring Boot, React, Kotlin, and modern development practices**.
+
+## 🔧 Technical skills
+
+- **Backend & development:** Java, Spring Boot, C#, ASP.NET, PHP, Laravel, Python, FastAPI, REST APIs, SOAP, JSON, XML
+- **Frontend:** React, JavaScript, TypeScript, HTML, CSS, Bootstrap, Tailwind
+- **Databases:** PostgreSQL, SQL Server, MySQL, SQL, MongoDB, database administration and troubleshooting
+- **Systems & operations:** Linux, Windows Server, Active Directory, IIS, Apache, Tomcat, VMware
+- **DevOps & tools:** Git, GitHub, GitLab, Docker, Docker Compose, Maven, Postman
+- **Enterprise platforms:** SharePoint, SoftExpert Suite, AspenTech Suite
+- **Service management:** ITIL 4 Foundation, incident management, problem management, application support
+
+## 🚀 Featured projects
+
+### 🚗 MOVIA — Peer-to-Peer Car Sharing
+A car-sharing platform with vehicle listings, reservations, authentication, notifications, and planned real-time communication.
+
+**Stack:** Java, Spring Boot, PostgreSQL, React, Kotlin, Docker, Git
+
+*Status: In development.*
+
+### 🎟️ EventHub — Event Management Platform
+Web application for publishing events, managing registrations, and administering events, categories, and venues.
+
+**Stack:** Laravel, PHP, MySQL, Blade, Bootstrap
+
+*Status: In development.*
+
+### 🔐 Rent-a-Car — Authentication & Account Management
+Web application focused on user registration, authentication, account management, and multi-factor authentication.
+
+**Stack:** ASP.NET Web Forms, C#, SQL Server, ASP.NET Identity
+
+*Status: Learning project.*
+
+## 🎯 Current focus
+
+- Building maintainable REST APIs and full-stack applications
+- Improving software architecture, testing, and CI/CD workflows
+- Connecting enterprise application support experience with software engineering
+
+## 📫 Connect
+
+- **LinkedIn:** www.linkedin.com/in/melaniosoares
+- **Email:** melanio509@hotmail.com
+
+---
+
+*I enjoy solving complex technical problems, learning continuously, and building reliable software that helps people and organizations.*
