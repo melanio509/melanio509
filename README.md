@@ -23,21 +23,18 @@ A car-sharing platform with vehicle listings, reservations, authentication, noti
 
 **Stack:** Java, Spring Boot, PostgreSQL, React, Kotlin, Docker, Git
 
-*Status: In development.*
 
 ### 🎟️ EventHub — Event Management Platform
 Web application for publishing events, managing registrations, and administering events, categories, and venues.
 
 **Stack:** Laravel, PHP, MySQL, Blade, Bootstrap
 
-*Status: In development.*
 
 ### 🔐 Rent-a-Car — Authentication & Account Management
 Web application focused on user registration, authentication, account management, and multi-factor authentication.
 
 **Stack:** ASP.NET Web Forms, C#, SQL Server, ASP.NET Identity
 
-*Status: Learning project.*
 
 ## 🎯 Current focus
 
