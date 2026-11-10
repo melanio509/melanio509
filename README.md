@@ -19,19 +19,19 @@ I have worked on business-critical applications and enterprise platforms, combin
 ## 🚀 Featured projects
 
 ### 🚗 MOVIA — Peer-to-Peer Car Sharing
-A car-sharing platform with vehicle listings, reservations, authentication, notifications, and planned real-time communication.
+A car-sharing platform with vehicle listings, reservations, authentication, notifications, and planned real-time communication. This is a private repository. Ask for access.
 
 **Stack:** Java, Spring Boot, PostgreSQL, React, Kotlin, Docker, Git
 
 
 ### 🎟️ EventHub — Event Management Platform
-Web application for publishing events, managing registrations, and administering events, categories, and venues.
+Web application for publishing events, managing registrations, and administering events, categories, and venues. This is a private repository. Ask for access.
 
 **Stack:** Laravel, PHP, MySQL, Blade, Bootstrap
 
 
 ### 🔐 Rent-a-Car — Authentication & Account Management
-Web application focused on user registration, authentication, account management, and multi-factor authentication.
+Web application focused on user registration, authentication, account management, and multi-factor authentication. This is a private repository. Ask for access.
 
 **Stack:** ASP.NET Web Forms, C#, SQL Server, ASP.NET Identity
 
